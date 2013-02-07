@@ -1,0 +1,9 @@
+<xupdate:modifications version="1.0" xmlns:xupdate="http://www.xmldb.org/xupdate">
+	<xupdate:append select="/daftar_pasien" >
+		<xupdate:element name="pasien">
+		<xupdate:attribute name="pasien_id">4</xupdate:attribute>
+			<nama>Satriyo Piningit Kinanjoro</nama>
+			<alamat>Blitar</alamat>
+		</xupdate:element>
+	</xupdate:append>
+</xupdate:modifications>

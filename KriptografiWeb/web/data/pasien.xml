@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<daftar_pasien>
+<pasien src:col="/db/edy" src:key="pasien" xmlns:src="http://xml.apache.org/xindice/Query"><nomorinduk>101</nomorinduk><nama>Eko SW</nama><nomoridentitas>101-090-0000</nomoridentitas><tempatlahir>1979-06-27</tempatlahir><jeniskelamin>Laki-Laki</jeniskelamin><golongandarah>B</golongandarah><tinggi>60</tinggi><berat>55</berat><telepon>0856</telepon><pekerjaan>Programmer</pekerjaan><alergiobat>ajQZQ8bnW1c=</alergiobat><alamat>Jakal</alamat><riwayatpenyakit></riwayatpenyakit></pasien>
+</daftar_pasien>

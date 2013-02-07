@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<daftar_pemakai>
+	<pemakai>
+		<idpemakai>1</idpemakai>
+		<nama>admin</nama>
+		<password>admin</password>
+		<peran>Administrator</peran>
+	</pemakai>
+	
+	<pemakai>
+		<idpemakai>2</idpemakai>
+		<nama>operator</nama>
+		<password>operator</password>
+		<peran>Operator</peran>
+	</pemakai>
+	
+	<pemakai>
+		<idpemakai>3</idpemakai>
+		<nama>dokter</nama>
+		<password>dokter</password>
+		<peran>Dokter</peran>
+	</pemakai>
+</daftar_pemakai>

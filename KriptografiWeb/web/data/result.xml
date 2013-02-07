@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="pasien.xsl"?>
+<PELAYANANPASIEN>
+
+	<DATARUMAHSAKIT>
+		<NAMARUMAHSAKIT>RUMAH SAKIT UMUM (RSU) "BHAKTI MULIA"</NAMARUMAHSAKIT>
+		<PRODUK>INFORMASI PELAYANAN</PRODUK>
+		<KOTA>SEMARANG</KOTA>
+		<ALAMAT>JL. MAJAPAHIT NO.456-458 SEMARANG</ALAMAT>
+		<TELEPON>024-76747777 FAX: 024-76747788</TELEPON>
+		<PERIODE>JULI 2008</PERIODE>
+	</DATARUMAHSAKIT>
+	
+	<data_pasien>
+		<pasien pasien_id="1" src:col="/db/edy" src:key="pasien" xmlns:src="http://xml.apache.org/xindice/Query">
+			<nama>Edy Purwoko</nama>
+			<alamat>Semarang</alamat>	
+		</pasien>
+		
+		<pasien pasien_id="2" src:col="/db/edy" src:key="pasien" xmlns:src="http://xml.apache.org/xindice/Query">
+			<nama>Sukmawanto</nama>
+			<alamat>Tegal</alamat>	
+		</pasien>
+		
+		<pasien pasien_id="101" src:col="/db/edy" src:key="pasien" xmlns:src="http://xml.apache.org/xindice/Query">
+			<nama>Eko SW</nama>
+			<alamat>Karanggayam</alamat>
+		</pasien>
+  	</data_pasien>
+  </PELAYANANPASIEN>
